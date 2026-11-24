@@ -1,0 +1,3 @@
+# Week 4 - no API calls this week.
+# pytest is only needed for the spec linter.
+pytest
